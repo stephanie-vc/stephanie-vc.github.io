@@ -1,2 +1,1 @@
-# [stephanie-vc.github.io](https://stephanie-vc.github.io/Module2-solution/index.html)
-First of many projects through the Coursera Web Programming course. Link posted above. 
+Showcasing some beginner projects that I am working on through Coursera's Web Programming course. Link for each webpage can be found inside their respective folder. 
